@@ -2,7 +2,7 @@ Let's play a game!
 
 This is a 4-players card game called "Straights" written in C++.
 1. A player can either be a computer or human.
-2. Players take turn playing or discards cards from their hand.
+2. Players take turn playing or discarding cards from their hand.
 3. Every round, the score is counted from the discards pile of each player.
 4. The player with the least score wins.
 5. If a player quits, they will be replaced by a computer.
