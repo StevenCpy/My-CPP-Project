@@ -24,5 +24,5 @@ Rules:
 How to run the program:
 - Download the code.
 - Navigate to the folder on command prompt, or open the folder on VSCode.
-- On the terminal, type "make" to create the executable "straights".
+- On the terminal, type "make" to create the executable "straights" (needs C++ compiler installed).
 - Type "./straights" to run the executable.
